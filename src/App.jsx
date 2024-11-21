@@ -2,7 +2,8 @@ import { Routes, Route, Link } from "react-router-dom";
 
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
-import "./App.css";
+import "./styles/App.css";
+import "./styles/global.scss";
 
 import Home from "./views/Home";
 import Adam from "./components/team/Adam";
